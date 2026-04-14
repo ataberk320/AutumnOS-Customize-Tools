@@ -1,2 +1,3 @@
-# AutumnOS-Launchers
-AutumnOS' AutumnUI launchers Buildroot package for Buildroot.
+# **AutumnOS-Customize-Tools**
+
+Tools for customizing the UI of AutumnOS
